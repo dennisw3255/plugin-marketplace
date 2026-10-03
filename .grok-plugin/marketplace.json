@@ -398,7 +398,7 @@
     },
     {
       "name": "influence",
-      "description": "Create and edit social drafts, review posts, schedule or publish approved posts, and check publishing status through the hosted Influence MCP service.",
+      "description": "Plan campaigns, draft and review social posts, generate images, schedule approved publishing and read Insights through Influence.",
       "category": "marketing",
       "source": {
         "source": "url",
@@ -408,7 +408,8 @@
       "homepage": "https://influence.so",
       "keywords": [
         "influence",
-        "influence mcp"
+        "influence mcp",
+        "influence iq"
       ],
       "domains": [
         "influence.so"
